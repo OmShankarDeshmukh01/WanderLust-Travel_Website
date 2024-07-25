@@ -1,3 +1,5 @@
+![Example Image](images/WanderLust.png)
+
 # WanderLust-Travel-Website
 
 At WanderLust, we believe that every journey begins with a place to call home. Inspired by the global success of Airbnb, our platform is dedicated to connecting travelers with unique and welcoming accommodations. Whether you're looking for a cozy cottage, a chic city apartment, or a serene beach house, WanderLust has the perfect place for you.
