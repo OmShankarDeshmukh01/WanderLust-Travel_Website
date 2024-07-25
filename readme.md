@@ -75,8 +75,13 @@ https://wanderlust-travel-website-7k6a.onrender.com/listings
 git clone https://github.com/OmShankarDeshmukh01/WanderLust-Travel_Website.git
 cd WanderLust-Travel_Website
 ```
+2. Go inside the folder:
 
-2. Install the dependencies:
+```bash
+cd WanderLust-Travel_Website
+```
+
+3. Install the dependencies:
 
 ```bash
 npm install
