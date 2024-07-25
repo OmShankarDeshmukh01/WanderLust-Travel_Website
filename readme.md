@@ -10,6 +10,7 @@ At WanderLust, we believe that every journey begins with a place to call home. I
 ```bash
 https://wanderlust-travel-website-7k6a.onrender.com/listings
 ```
+![Example Image](images/displayimg.png)
 
 
 ## Table of Contents
