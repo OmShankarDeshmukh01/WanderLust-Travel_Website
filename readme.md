@@ -45,26 +45,9 @@ https://wanderlust-travel-website-7k6a.onrender.com/listings
 
 ## Dependencies
 
-- @mapbox/mapbox-sdk
-- cloudinary: ^1.41.3 (specific version recommended)
-- connect-flash
-- connect-mongo
-- cookie-parser
 - dotenv
-- ejs
-- ejs-mate
 - express
-- express-session
-- joi
-- method-override
-- mongodb
-- mongoose
-- multer
-- multer-storage-cloudinary
 - nodemon
-- passport
-- passport-local
-- passport-local-mongoose
 
 
 ## Setup
